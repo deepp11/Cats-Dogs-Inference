@@ -21,7 +21,7 @@ Implementation of baseline ML models for cats vs dogs classification with MLOps 
 
 ````markdown
 ## Project Structure
-```text
+
 
 cats_dogs_mlops/
 ├── README.md # This documentation
@@ -52,7 +52,7 @@ cats_dogs_mlops/
 ### Option A: Test Everything (Recommended for Grading)
 
 **1. Clone the repository:**
-```bash
+
 git clone <your-repo-url>
 cd cats_dogs_mlops
 
