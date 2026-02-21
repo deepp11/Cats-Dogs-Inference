@@ -52,7 +52,7 @@ cats_dogs_mlops/
 
 **1. Clone the repository:**
 
-git clone <your-repo-url>
+git clone https://github.com/deepp11/Cats-Dogs-Inference.git
 cd cats_dogs_mlops
 
 
